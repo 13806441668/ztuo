@@ -11,7 +11,7 @@
     <string name="one_text">Support BTC, usdt, ETH, etc</string>
     <string name="app_name">META</string>
     <string name="cancle">취소</string>
-    <string name="confirm">확인</string>
+    <string name="confirm">결정</string>
     <string name="back">반환</string>
     <string name="unknown_error">알 수없는 실수</string>
     <string name="no_network">현재 네트워크가 없습니다.</string>
@@ -30,7 +30,7 @@
 
 
     <string name="Start_downloading">다운로드 시작 ... 잠시 기다려주십시오</string>
-    <string name="more">더보기</string>
+    <string name="more">더</string>
     <string name="index">인덱스</string>
     <string name="hide">숨는 장소</string>
     <string name="main">주요 사진</string>
@@ -98,21 +98,21 @@
 
 
     <!--主页-->
-    <string name="home">메인화면</string>
+    <string name="home">집</string>
     <string name="market">인용 부호</string>
     <string name="transaction">트랜잭션</string>
 
-    <string name="fabi2">법정 화폐거래</string>
+    <string name="fabi2">피아트 통화 거래</string>
     <string name="account">나의 것</string>
     <string name="four_danjia">단가</string>
 
     <string name="dz_time">도착 시간</string>
     <string name="star_time">시작 시간</string>
     <string name="end_time">종료 시간</string>
-    <string name="jiaoyi_dui">마켓</string>
+    <string name="jiaoyi_dui">거래 쌍</string>
     <string name="jiaoyi_fangxiang">방향</string>
-    <string name="jiaoyi_weituoliang">위탁금액</string>
-    <string name="jiaoyi_yichengjiao">거래완료</string>
+    <string name="jiaoyi_weituoliang">위원회</string>
+    <string name="jiaoyi_yichengjiao">거래 완료</string>
     <string name="jiaoyi_shouxufei">수수료</string>
     <string name="login_view">로그인 후 볼 수 있습니다.</string>
     <string name="login_assets">총 자산 (USDT에 해당)</string>
@@ -121,11 +121,11 @@
     <!--我的-->
     <string name="not_logged_in">로그인하지 않았습니다</string>
     <string name="welcome_to">META에 오신 것을 환영합니다</string>
-    <string name="my_order">나의 주문</string>
-    <string name="my_ads">나의 광고</string>
+    <string name="my_order">내 주문</string>
+    <string name="my_ads">내 광고</string>
     <string name="my_message">플랫폼 뉴스</string>
     <string name="my_entrust">내 커미션</string>
-    <string name="history_trust">거래내역</string>
+    <string name="history_trust">역사위원회</string>
     <string name="my_credit">입증</string>
 
     <string name="my_version">새 버전 업데이트</string>
@@ -143,7 +143,7 @@
     <!-- C2C交易(承兑商版) -->
     <string name="ctc_title">피아트 통화 거래</string>
     <string name="ctc_buy_amount_tips">구매 수량을 입력하세요</string>
-    <string name="ctc_amount_tips">50~50000 사이의 숫자를 입력하세요.</string>
+    <string name="ctc_amount_tips">50에서 50000 사이의 숫자를 입력하세요.</string>
     <string name="ctc_sell_amount_tips">판매 수량을 입력하세요</string>
 
     <!-- 平台消息-->
@@ -155,7 +155,7 @@
 
 
     <!-- 订单申诉-->
-    <string name="order_appeal">주문상소</string>
+    <string name="order_appeal">주문 항소</string>
     <string name="appealTip">이의 제기 요청을 가능한 한 빨리 처리 할 것입니다. 잠시만 기다려주십시오.</string>
     <string name="appealTip2">항소 이유를 간략하게 설명해주십시오 (300 자 이내).</string>
 
@@ -168,20 +168,20 @@
     <string name="item_buy">구입</string>
     <string name="item_sell">팔다</string>
     <string name="lishi">역사</string>
-    <string name="current_trust">현재위탁</string>
+    <string name="current_trust">현재 커미션</string>
 
     <string name="undone">취소됨</string>
-    <string name="traded_trade">거래완료</string>
+    <string name="traded_trade">거래 완료</string>
     <string name="trading">거래 중</string>
     <string name="trust_detail">상세 거래 내역</string>
-    <string name="item_time">시간</string>
+    <string name="item_time">시각</string>
     <string name="item_cost">최종 가격</string>
-    <string name="item_number">수량</string>
+    <string name="item_number">위원회</string>
     <string name="item_charge">수수료</string>
-    <string name="all">전부</string>
-    <string name="text_buy">매수</string>
+    <string name="all">모두</string>
+    <string name="text_buy">구매</string>
     <string name="text_buy_one">구입</string>
-    <string name="text_sale">매도</string>
+    <string name="text_sale">팔다</string>
     <string name="text_price">가격</string>
     <string name="text_number">수량</string>
     <string name="text_number2">수량:</string>
@@ -196,27 +196,27 @@
     <string name="text_best_price">최적의 가격으로 구매</string>
     <string name="text_best_sale">최고의 가격으로 판매</string>
     <string name="text_best_prices">최고의 가격</string>
-    <string name="text_used">사용가능</string>
+    <string name="text_used">유효한</string>
     <string name="text_sell_one">팔다</string>
     <string name="text_sell_two">팔다</string>
-    <string name="text_volume">거래량</string>
+    <string name="text_volume">음량</string>
     <string name="text_average_price">평균 거래 가격</string>
     <string name="text_entrust_num">위원회</string>
     <string name="text_total_deal">총 매출액</string>
     <string name="text_total_entrust">총 수수료</string>
-    <string name="text_turnover">거래액</string>
-    <string name="text_24_change">24H 금액</string>
-    <string name="text_actual_deal">거래완료</string>
-    <string name="marketPrice">시가</string>
+    <string name="text_turnover">거래 금액</string>
+    <string name="text_24_change">24 시간 볼륨</string>
+    <string name="text_actual_deal">거래 완료</string>
+    <string name="marketPrice">시장 가격</string>
 
     <string-array name="text_type">
-        <item>지정가주문</item>
-        <item>시장가주문</item>
+        <item>주문 제한</item>
+        <item>시장 주문</item>
     </string-array>
     <string-array name="text_type_array">
         <item>선택 취소</item>
-        <item>지정가주문</item>
-        <item>시장가주문</item>
+        <item>주문 제한</item>
+        <item>시장 주문</item>
     </string-array>
     <string-array name="text_type_param">
         <item>선택 취소</item>
@@ -236,8 +236,8 @@
     <string name="text_repeal">취소</string>
     <string name="text_wei_price">수수료 가격</string>
     <string name="dialog_one_title">주문 취소 확인</string>
-    <string name="dialog_one_one">주문취소를 확인하겠습니까 ?</string>
-    <string name="dialog_one_two">주문취소</string>
+    <string name="dialog_one_one">주문 취소를 확인합니까?</string>
+    <string name="dialog_one_two">주문 취소</string>
     <string name="dialog_one_cancel">취소</string>
     <string name="dialog_msg_one">수수료 가격 :</string>
     <string name="dialog_msg_two">총 수수료 :</string>
@@ -258,7 +258,7 @@
     <string name="text_add_favorite">선택 사항 추가</string>
     <string name="text_add_fail">추가 실패</string>
     <string name="text_add_success">성공적으로 추가되었습니다.</string>
-    <string name="text_collected">이미저장된</string>
+    <string name="text_collected">모은</string>
     <string name="text_cancel_fail">취소 실패</string>
     <string name="text_cancel_success">성공 취소</string>
 
@@ -268,27 +268,27 @@
     <!--订单详情-->
     <string name="orderdetail">주문 정보</string>
     <string name="contact_with_me">저에게 연락하십시오</string>
-    <string name="order_status">주문상태</string>
+    <string name="order_status">주문 상태</string>
     <string name="Payment_countdown">결제 카운트 다운</string>
     <string name="order_information">주문 정보</string>
     <string name="Transaction_object">거래 파트너</string>
     <string name="Order_number">주문 번호</string>
     <string name="transaction_price">거래 가격</string>
-    <string name="transactions_Number">거래수량</string>
+    <string name="transactions_Number">거래 수</string>
     <string name="Trading_time">거래 시간</string>
-    <string name="Transaction_amount">거래금액</string>
+    <string name="Transaction_amount">거래 금액</string>
     <string name="payment_information">결제 정보</string>
     <string name="paymentTip">사용자가 아직 Alipay 계정을 추가하지 않았습니다.</string>
     <string name="paymentTip2">사용자가 아직 WeChat 계정을 추가하지 않았습니다.</string>
     <string name="paymentTip3">사용자가 아직 은행 카드 계좌를 추가하지 않았습니다.</string>
     <string name="order_release">주문 해제</string>
-    <string name="Payment_done">결제완료</string>
+    <string name="Payment_done">결제 완료</string>
     <string name="Cancel_order">주문 취소</string>
     <string name="paymentTip4">이 주문에 대해 질문이 있습니까?</string>
     <string name="paymentTip5">항소하려면 클릭하세요</string>
     <string name="Download_failed">다운로드 실패</string>
     <string name="paymentTip6">거래 비밀번호를 입력하세요</string>
-    <string name="Warm_prompt">도움말</string>
+    <string name="Warm_prompt">팁</string>
     <string name="paymentTip7">이 주문을 취소하려고합니다. 계속 하시겠습니까?</string>
     <string name="paymentTip8">지불 하셨나요?</string>
     <string name="paymentTip9">명령에 항소하려고합니다. 계속 하시겠습니까?</string>
@@ -318,7 +318,7 @@
 
     <!--发布购买广告-->
     <string name="text_ad_change">광고 수정</string>
-    <string name="text_change">업데이트(갱신)</string>
+    <string name="text_change">수정</string>
     <string name="text_ad_title">구매 후 광고</string>
     <string name="text_ad_titles">판매 광고</string>
     <string name="text_ad_select">선택하세요</string>
@@ -332,7 +332,7 @@
     <string name="text_ad_yi_jia">프리미엄</string>
     <string name="text_ad_yi_one">고정 가격에서는 프리미엄을 입력 할 필요가 없습니다.</string>
     <string name="text_ad_yi_two">시장 가격에 기반한 유출 비율</string>
-    <string name="text_ad_jiao_yi">거래가격</string>
+    <string name="text_ad_jiao_yi">거래 가격</string>
     <string name="text_ad_jiao_one">거래 가격을 입력하세요</string>
     <string name="text_ad_jiao_two">시장 가격 및 프리미엄에 따라 자동 계산</string>
     <string name="text_ad_min">최소 금액</string>
@@ -346,8 +346,8 @@
     <string name="text_ad_fu_time">급여 만료</string>
     <string name="text_ad_fu_hint">지불 기간을 선택하십시오</string>
     <string name="text_ad_minu">분</string>
-    <string name="text_ad_money">자금비밀번호</string>
-    <string name="text_ad_money_hint">자금비밀번호를 입력해주세요</string>
+    <string name="text_ad_money">펀드 비밀번호</string>
+    <string name="text_ad_money_hint">펀드 비밀번호를 입력하세요</string>
     <string name="text_ad_hui_fu">자동 응답 여부</string>
     <string name="text_ad_y">예</string>
     <string name="text_ad_n">아니</string>
@@ -402,8 +402,8 @@
     <string name="freezeCoin">얼다</string>
     <string name="suocang">발매 예정</string>
     <string name="mentionMoney">철수</string>
-    <string name="chargeMoney">충전</string>
-    <string name="matchMoney">짝맺기/거래페어</string>
+    <string name="chargeMoney">재충전</string>
+    <string name="matchMoney">쌍</string>
     <string name="activityexchange">활동 교류</string>
     <string name="ctcbuy">C2C 구매</string>
     <string name="ctcsell">C2C 판매</string>
@@ -418,7 +418,7 @@
     <string name="top_up">재충전</string>
     <string name="withdrawal">빼다</string>
     <string name="transfer">이전</string>
-    <string name="coinCurrencyTrading">교환</string>
+    <string name="coinCurrencyTrading">통화 거래</string>
     <string name="FiatMoneyBuy">피아트 통화 구매</string>
     <string name="FiatMoneySell">피아트 통화 판매</string>
     <string name="activitiesReward">활동 상</string>
@@ -451,9 +451,9 @@
     <string name="binding_email">사서함 바인딩</string>
     <string name="binding_account">미수금</string>
     <string name="login_password">로그인 비밀번호</string>
-    <string name="capital_password">자금비밀번호</string>
-    <string name="capital_passwordTip">자금비밀번호를 입력해주세요</string>
-    <string name="id_credit">확인됨</string>
+    <string name="capital_password">펀드 비밀번호</string>
+    <string name="capital_passwordTip">펀드 비밀번호를 입력하세요</string>
+    <string name="id_credit">확인 됨</string>
     <string name="bound">수정</string>
     <string name="bound2">설정되었습니다</string>
     <string name="unbound">매여 있지 않은</string>
@@ -482,7 +482,7 @@
 
     <!--登录-->
     <string name="login">로그인</string>
-    <string name="regist">회원가입</string>
+    <string name="regist">등기</string>
     <string name="username">계좌 번호</string>
     <string name="username_shuru">전화 번호 / 이메일을 입력하세요</string>
 
@@ -528,7 +528,7 @@
     <string name="about_3">META의 목표는 상대적으로 분산 된 거래 플랫폼을 구축하는 것입니다. 플랫폼의 운영 환경은 안전하고 공정하며 건전한 방식으로 혁신적이고 반복 가능하며 사회 발전 및 발전 추세에 따라 발전하고 있습니다.</string>
 
     <string-array name="home_two_top_tab">
-        <item>셀프옵션 (커스텀)</item>
+        <item>선택 과목</item>
         <item>USDT</item>
         <item>BTC</item>
         <item>ETH</item>
@@ -540,12 +540,12 @@
     </string-array>
 
     <string-array name="home_seven_top_tab">
-        <item>거래내역</item>
-        <item>실시간 시세</item>
+        <item>과거 결과</item>
+        <item>실시간 시장</item>
     </string-array>
 
     <string-array name="k_line_tab">
-        <item>시차</item>
+        <item>시간 공유</item>
         <item>1 분</item>
         <item>5 분</item>
         <item>1 시간</item>
@@ -556,7 +556,7 @@
     </string-array>
 
     <string-array name="k_line_tab_option">
-        <item>시차</item>
+        <item>시간 공유</item>
         <item>1 분</item>
         <item>5 분</item>
         <item>30 분</item>
@@ -569,18 +569,18 @@
         <item>미지급</item>
         <item>이미 지불</item>
         <item>완료</item>
-        <item>취소됨</item>
+        <item>취소 된</item>
         <item>정치</item>
     </string-array>
 
     <string-array name="ctc_payType">
-        <item>은행카드</item>
-        <item>알리페이</item>
+        <item>은행 카드</item>
+        <item>알리 페이</item>
         <item>WeChat Pay</item>
     </string-array>
 
     <string-array name="ctc_payTypeBank">
-        <item>은행카드</item>
+        <item>은행 카드</item>
     </string-array>
 
     <string-array name="bank_name">
@@ -636,7 +636,7 @@
 
 
     <string-array name="k_line_depth">
-        <item name="depth">심도</item>
+        <item name="depth">깊이</item>
         <item name="font_kline_volume">거래</item>
     </string-array>
     <string-array name="exchange_type">
@@ -673,9 +673,9 @@
 
     <!--    登录-->
     <string name="input_account_password">계정 비밀번호를 입력하세요!</string>
-    <string name="login_register">로그인 / 회원가입</string>
+    <string name="login_register">로그인 등록</string>
     <!--    手势验证-->
-    <string name="hint">제시하다</string>
+    <string name="hint">신속한</string>
     <string name="forget_pwd">제스처 암호를 잊어 버렸습니다. 다시 로그인해야합니다!</string>
     <string name="go_login">로그인으로 이동</string>
     <string name="least_four_dot">최소 4 개의 포인트가 연결되어 있습니다. 다시 입력하세요.</string>
@@ -688,7 +688,7 @@
 
     <!--    主页-->
     <string name="Professional_contract">전문 계약</string>
-    <string name="Option_contract">옵션계약</string>
+    <string name="Option_contract">옵션 계약</string>
     <string name="input_direction">방향을 입력하세요</string>
     <string name="input_trading">거래 쌍을 입력하세요</string>
     <string name="input_type">유형을 입력하십시오</string>
@@ -696,7 +696,7 @@
     <string name="reset">초기화</string>
     <string name="questions_guides_information">질문 / 가이드 / 정보</string>
     <string name="news_events_information">뉴스 / 이벤트 / 정보</string>
-    <string name="announcement_center">공지</string>
+    <string name="announcement_center">발표</string>
     <string name="money_in_out">RMB 입금 / 출금</string>
     <string name="up_announcement">목록 늘리기</string>
     <string name="down_announcement">거절 목록</string>
@@ -751,19 +751,19 @@
     <string name="text_good">칭찬</string>
     <string name="buy_usdt">USDT 구매</string>
     <string name="sell_usdt">USDT 매도</string>
-    <string name="buy_price">매수가격 :</string>
-    <string name="buy_number">매수량 :</string>
-    <string name="buy_type">지불방식 :</string>
+    <string name="buy_price">구매 가격 :</string>
+    <string name="buy_number">구매 수량 :</string>
+    <string name="buy_type">지불 방법 :</string>
     <string name="buy_money">정산 금액 :</string>
     <string name="already_buy">주문 후 30 분 이내에 결제를 완료하고 "결제 됨"으로 표시하십시오.</string>
     <string name="sell_price">판매 가격:</string>
     <string name="sell_number">판매 수량 :</string>
-    <string name="sell_type">지급방식 :</string>
-    <string name="deal_notice">거래통지</string>
+    <string name="sell_type">지불 방법 :</string>
+    <string name="deal_notice">거래 통지</string>
 
     <!--    订单-->
     <string name="order_time">주문 시간</string>
-    <string name="settlement_amount">결산총액</string>
+    <string name="settlement_amount">총 결제</string>
     <string name="Payment_receipt_account">결제 / 수신 계정</string>
     <string name="gather_code">소장 코드</string>
     <string name="account_paid_tab">마크 지불</string>
@@ -777,48 +777,48 @@
     <string name="text_flatnull">평평한 공기</string>
     <string name="text_all_model">전체 창고 모드</string>
     <string name="text_chase_model">창고 모드 별 창고</string>
-    <string name="text_limit_entrust">지정가주문</string>
-    <string name="text_Market_entrust">시장가주문</string>
-    <string name="text_plan_entrust">손익분기손절</string>
-    <string name="text_hold">현재위치</string>
-    <string name="text_current_entrust">현재커미션</string>
-    <string name="text_history_entrust">거래내역</string>
+    <string name="text_limit_entrust">주문 제한</string>
+    <string name="text_Market_entrust">시장 주문</string>
+    <string name="text_plan_entrust">손실 중지</string>
+    <string name="text_hold">현재 위치</string>
+    <string name="text_current_entrust">현재 커미션</string>
+    <string name="text_history_entrust">역사위원회</string>
     <string name="text_entrust_details">수수료 세부 정보</string>
-    <string name="text_clear">주문취소</string>
-    <string name="text_entrust_type">주문유형</string>
-    <string name="text_enter_price_constract">주문가격</string>
+    <string name="text_clear">주문 취소</string>
+    <string name="text_entrust_type">커미션 유형</string>
+    <string name="text_enter_price_constract">수수료 가격</string>
     <string name="text_trigger_price_constract">트리거 가격</string>
-    <string name="text_transaction_price">거래가격</string>
-    <string name="text_guarantee_money">잔여금</string>
-    <string name="text_entrust_number">주문수량</string>
+    <string name="text_transaction_price">최종 가격</string>
+    <string name="text_guarantee_money">여유</string>
+    <string name="text_entrust_number">주문 수</string>
     <string name="text_leverage">이점</string>
-    <string name="text_earnings">수익</string>
+    <string name="text_earnings">수입</string>
     <string name="text_earnings_rate">수익률</string>
     <string name="text_inventory">미결제 약정</string>
-    <string name="text_Amount">가평량</string>
-    <string name="text_average_open">평균시가</string>
+    <string name="text_Amount">평준화 가능</string>
+    <string name="text_average_open">평균 시가</string>
     <string name="text_Current_margin">현재 마진</string>
     <string name="text_margin_rate">마진율</string>
-    <string name="text_compute">손익결산</string>
-    <string name="ent_status1">주문중</string>
+    <string name="text_compute">정산 손익</string>
+    <string name="ent_status1">시운전</string>
     <string name="ent_status2">취소됨</string>
-    <string name="ent_status3">주문실패</string>
-    <string name="ent_status4">주문성공</string>
-    <string name="ent_statusblast">주문량이 너무 많습니다</string>
+    <string name="ent_status3">위임 실패</string>
+    <string name="ent_status4">성공적으로 시운전</string>
+    <string name="ent_statusblast">변제</string>
     <string name="text_open_flat">열기 / 닫기</string>
     <string name="text_open">포지션 열기</string>
     <string name="text_flat">변제</string>
-    <string name="buyOpenmore">매수초과</string>
+    <string name="buyOpenmore">오픈 롱 구매</string>
     <string name="sellOpennull">공매도</string>
     <string name="buyflatnull">짧은 구매</string>
     <string name="sellflatmore">더 많이 판매</string>
     <string name="Openmore">더 열 수 있습니다 :</string>
     <string name="Opennull">열 수 있습니다 :</string>
-    <string name="flatnull">숏포지션 청산가능:</string>
-    <string name="flatmore">롱 포지션 청산가능:</string>
-    <string name="zhang">공유번호</string>
-    <string name="text_limit">지정가주문</string>
-    <string name="text_Market">시장가주문</string>
+    <string name="flatnull">숏 포지션을 청산 할 수 있습니다 :</string>
+    <string name="flatmore">매수 포지션을 청산 할 수 있습니다 :</string>
+    <string name="zhang">장</string>
+    <string name="text_limit">주문 제한</string>
+    <string name="text_Market">시장 주문</string>
     <string name="tv_select_condition">필터 기준을 선택하십시오</string>
     <string name="tv_select_start_time">시작 시간을 선택하세요</string>
     <string name="tv_select_finish_time">종료 시간을 선택하세요</string>
@@ -826,10 +826,10 @@
     <string name="input_big_buy">입력 한 수량이 구매 가능한 수량보다 많습니다!</string>
     <string name="find_error">비정상적인 오류가 발생했습니다!</string>
     <string name="put_list_ok">주문 보류</string>
-    <string name="more_head">매도초과</string>
-    <string name="null_head">공매도</string>
+    <string name="more_head">긴</string>
+    <string name="null_head">짧은</string>
     <string name="remove_entrust">커미션 취소 성공</string>
-    <string name="default_market">기본 수수료 가격은 시장가격입니다.</string>
+    <string name="default_market">기본 커미션 가격은 시장 가격입니다.</string>
     <string name="input_price_number">가격과 수량을 입력하세요</string>
     <string name="input_ok_buy_number">정확한 구매 수량을 입력하십시오</string>
     <string name="input_ok_buy_price">정확한 구매 가격을 입력하세요</string>
@@ -841,7 +841,7 @@
     <string name="input_entrust_price_number">수수료 가격과 수량을 입력하세요.</string>
     <string name="number_big_zero">주문 수량은 0보다 커야합니다.</string>
     <string name="input_ok_entrust_price">정확한 수수료 가격을 입력하세요</string>
-    <string name="input_number">수량을 입력해주세요</string>
+    <string name="input_number">수량을 입력하세요</string>
     <string name="entrust_num_btc">위탁 (BTC)</string>
     <string name="entrust_ok_btc">거래량 (BTC)</string>
     <string name="price_btc">가격 (BTC)</string>
@@ -849,7 +849,7 @@
     <string name="entrust_money">수수료 금액</string>
     <string name="entrust_price">수수료 가격 :</string>
     <string name="usdt_account">USDT 계정</string>
-    <string name="usable">사용가능:</string>
+    <string name="usable">유효한:</string>
     <string name="vendibility">판매 가능 :</string>
     <string name="one_zhang">1 매 =</string>
     <string name="select_multiple">여러 개 선택</string>
@@ -919,17 +919,17 @@
     <string name="receive">다음 계정은 수락 자로부터 송금을받습니다.</string>
     <string name="timed_out">주문 시간이 초과되었습니다.</string>
     <string name="time_remaining">남은 시간</string>
-    <string name="fen">날짜 시간 분</string>
-    <string name="miao">초</string>
+    <string name="fen">분</string>
+    <string name="miao">둘째</string>
     <string name="up_appeal">30 분 지불 후 이의를 제기하십시오.</string>
     <string name="replicated">복사 됨</string>
     <string name="merchants_certification">판매자 인증</string>
     <string name="apply_merchant">사업 신청</string>
-    <string name="publish_advertising">광고게재</string>
+    <string name="publish_advertising">광고 배치</string>
     <string name="recheck">재검토</string>
-    <string name="legal_agreement1">사용자 계약</string>
+    <string name="legal_agreement1">나는 읽고 동의합니다</string>
     <string name="legal_agreement2">"인증 된 판매자 계약"</string>
-    <string name="legal_agreement3">사용자 계약</string>
+    <string name="legal_agreement3">사용자 동의</string>
     <string name="apply_immediately">즉시 적용</string>
     <string name="phone">휴대폰</string>
     <string name="input_phone">전화 번호를 입력하세요</string>
@@ -950,8 +950,8 @@
 
 
     <!--我的广告-->
-    <string name="up_shelf">올리기</string>
-    <string name="down_shelf">내리기</string>
+    <string name="up_shelf">선반에 올려</string>
+    <string name="down_shelf">기성품</string>
     <string name="Alipay">알리 페이</string>
     <string name="wechat">위챗</string>
     <string name="unionpay">유니온 페이</string>
@@ -976,8 +976,8 @@
     <string name="look_sample_graph">샘플 이미지를 보려면 클릭하십시오.</string>
 
     <!--    k线-->
-    <string name="high">높다</string>
-    <string name="low">낮다</string>
+    <string name="high">높은</string>
+    <string name="low">낮은</string>
 
     <string name="username_login">계좌 번호</string>
     <string name="username_shuru_login">전화 번호 / 이메일을 입력하세요</string>
@@ -986,12 +986,12 @@
     <string-array name="k_line_data">
         <item>시각</item>
         <item>열다</item>
-        <item>높다</item>
-        <item>낮다</item>
+        <item>높은</item>
+        <item>낮은</item>
         <item>받다</item>
         <item>기복</item>
         <item>견적 변경</item>
-        <item>거래량</item>
+        <item>음량</item>
     </string-array>
 
     <!--   期权 -->
@@ -999,29 +999,29 @@
     <string name="text_use_balance">사용 가능한 잔액</string>
     <string name="text_current_delivery">현재 배송</string>
     <string name="text_history_delivery">역사적 정착지</string>
-    <string name="text_buy_up_total">총 구매가격</string>
-    <string name="text_buy_down_total">총 매수</string>
+    <string name="text_buy_up_total">총 구매 가격</string>
+    <string name="text_buy_down_total">총 바이 다운</string>
     <string name="text_my_storehouse">내 오픈 포지션</string>
     <string name="text_look_up">강세</string>
     <string name="text_look_down">약세</string>
-    <string name="text_open_price">개장가격</string>
-    <string name="text_now_price">현재가격</string>
-    <string name="text_open_money">개설금액</string>
-    <string name="text_forecast_direction">예측방향</string>
-    <string name="text_forecast_result">예측결과</string>
-    <string name="text_bonuses">보너스수량</string>
-    <string name="text_open_fee">개점수수료</string>
+    <string name="text_open_price">개시 가격</string>
+    <string name="text_now_price">현재 가격</string>
+    <string name="text_open_money">개시 금액</string>
+    <string name="text_forecast_direction">예측 방향</string>
+    <string name="text_forecast_result">예측 결과</string>
+    <string name="text_bonuses">보너스 수</string>
+    <string name="text_open_fee">개 회비</string>
     <string name="text_reward_fee">펌핑</string>
-    <string name="please_select_number">베팅 수량을 선택하세요</string>
-    <string name="use_money_dissatisfy">사용 가능한 잔액이 부족합니다!</string>
+    <string name="please_select_number">베팅 수를 선택하세요</string>
+    <string name="use_money_dissatisfy">사용 가능한 잔액이 충분하지 않습니다!</string>
     <string name="nos">먼저</string>
     <string name="expect">기간</string>
-    <string name="forecast_cycle">현재예측기간 :</string>
-    <string name="underway">진행중</string>
-    <string name="tv_open_time">개장시간 :</string>
-    <string name="tv_open_price">개장가격:</string>
+    <string name="forecast_cycle">이 기간의 예측 기간 :</string>
+    <string name="underway">처리</string>
+    <string name="tv_open_time">개장 시간 :</string>
+    <string name="tv_open_price">개시 가격 :</string>
     <string name="tv_buy_up_total">총 구매 가격 :</string>
-    <string name="tv_receive_time">마감시간 :</string>
+    <string name="tv_receive_time">마감 시간 :</string>
     <string name="tv_receive_price">종가 :</string>
     <string name="tv_buy_down_total">총 구매 및 손실 :</string>
 
@@ -1031,16 +1031,16 @@
 
     <string name="submit_ok">성공적으로 제출되었습니다.</string>
     <string name="Account_rights">계정 자산</string>
-    <string name="may_money">원금</string>
+    <string name="may_money">사용 가능한 마진</string>
     <string name="use_money">사용 된 마진</string>
-    <string name="freeze_money">동결보증금</string>
+    <string name="freeze_money">여백 고정</string>
     <string name="Wallet_Overturn">자산 양도</string>
     <string name="tv_record">녹음</string>
     <string name="tv_from">에서</string>
     <string name="tv_to">에</string>
     <string name="tv_constract_account">영구 계약 계정</string>
     <string name="tv_balance">밸런스</string>
-    <string name="tv_currency">코인</string>
+    <string name="tv_currency">통화</string>
     <string name="tv_overturn_number">환승 횟수</string>
     <string name="tv_input_overturn_number">이체 금액을 입력하세요</string>
     <string name="tv_overturn">이전</string>
@@ -1065,7 +1065,7 @@
     <string name="tv_message_deficiency">정보가 불완전합니다!</string>
     <string name="Parse_error">구문 분석 오류</string>
     <string name="no_choice">선택하지 마십시오</string>
-    <string name="constract">지속</string>
+    <string name="constract">지속 가능</string>
     <string name="input_remark">출금 비고 / 메모를 입력하세요</string>
     <string name="security_settings">보안 설정</string>
     <string name="innovation_lab">혁신 실험실</string>
@@ -1081,7 +1081,7 @@
     <string name="no_free">선택 사항 없음</string>
     <string name="now_loading">로드 중 ...</string>
     <string name="loading_bottom">나는 결론이있다</string>
-    <string name="qr_code">QR코드</string>
+    <string name="qr_code">QR 코드</string>
     <string name="save_qr_code">QR 코드를 앨범에 직접 저장하려면 길게 누르세요.</string>
     <string name="now_loading_center">로딩 중</string>
     <string name="Permission_not_open">권한이 켜져 있지 않습니다.</string>
